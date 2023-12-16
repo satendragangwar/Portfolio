@@ -31,12 +31,7 @@ const Contact = () => {
             <h5>gsatendra488@gmail.com</h5>
             <a href="mailto:gsatendra488@gmail.com" target='blank'>Send a message</a>
           </article>
-          <article className="contact__option">
-            <BsMessenger className='contact__option-icon'/>
-            <h4>Messanger</h4>
-            <h5>Instagram</h5>
-            <a href="https://www.instagram.com/" target='blank'>Send a message</a>
-          </article>
+          
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon'/>
             <h4>Whats App</h4>
